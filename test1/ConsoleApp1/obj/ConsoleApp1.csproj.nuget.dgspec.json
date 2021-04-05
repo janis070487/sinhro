@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\janis\\github\\test\\test1\\ConsoleApp1\\ConsoleApp1.csproj": {}
+    "C:\\Users\\janis\\github\\sinhro\\test1\\ConsoleApp1\\ConsoleApp1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\janis\\github\\test\\test1\\ConsoleApp1\\ConsoleApp1.csproj": {
+    "C:\\Users\\janis\\github\\sinhro\\test1\\ConsoleApp1\\ConsoleApp1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\janis\\github\\test\\test1\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectUniqueName": "C:\\Users\\janis\\github\\sinhro\\test1\\ConsoleApp1\\ConsoleApp1.csproj",
         "projectName": "ConsoleApp1",
-        "projectPath": "C:\\Users\\janis\\github\\test\\test1\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectPath": "C:\\Users\\janis\\github\\sinhro\\test1\\ConsoleApp1\\ConsoleApp1.csproj",
         "packagesPath": "C:\\Users\\janis\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\janis\\github\\test\\test1\\ConsoleApp1\\obj\\",
+        "outputPath": "C:\\Users\\janis\\github\\sinhro\\test1\\ConsoleApp1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\janis\\AppData\\Roaming\\NuGet\\NuGet.Config",

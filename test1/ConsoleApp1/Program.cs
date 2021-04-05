@@ -1,5 +1,5 @@
 ﻿using System;
-//ok
+
 using System.Globalization;
 namespace uzdevums
 {
